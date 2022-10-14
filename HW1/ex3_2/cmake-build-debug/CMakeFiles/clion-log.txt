@@ -1,0 +1,5 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/209/bin/ninja/linux/ninja -G Ninja -S /root/Documents/vision/ex3_2 -B /root/Documents/vision/ex3_2/cmake-build-debug
+-- Found OpenCV: /usr/local (found version "4.4.0") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /root/Documents/vision/ex3_2/cmake-build-debug
