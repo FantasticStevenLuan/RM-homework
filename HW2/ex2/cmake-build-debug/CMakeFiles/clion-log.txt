@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/209/bin/ninja/linux/ninja -G Ninja -S /root/Documents/vision/HW2/ex2 -B /root/Documents/vision/HW2/ex2/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /root/Documents/vision/HW2/ex2/cmake-build-debug
